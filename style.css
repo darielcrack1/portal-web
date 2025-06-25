@@ -1,0 +1,36 @@
+/* Fuente principal y fondo general */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f6f7;
+    margin: 0;
+    padding: 0;
+}
+
+/* Animación de aparición */
+.fade-in {
+    animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Encabezado */
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Pie de página */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    margin-top: 5rem;
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+}
