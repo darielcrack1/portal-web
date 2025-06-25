@@ -26,6 +26,10 @@ tarea_portal_web/
 ## 🚀 Requisitos
 - **XAMPP** (o cualquier servidor local con soporte PHP)
 - Conexión a Internet para acceder a las APIs
+- PHP 7.x o superior
+- Servidor Apache (recomendado: XAMPP)
+- MySQL
+- Navegador moderno
 
 ## ⚙️ Instalación y Ejecución
 
@@ -52,3 +56,4 @@ tarea_portal_web/
 
 ## ✨ Autor
 - Teuddy Sánchez
+
